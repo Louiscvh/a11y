@@ -5,7 +5,7 @@ Bienvenue dans le dépôt du projet A11y ! Ce projet fait partie d'une compétit
 ## Objectifs du projet
 
 1. **Améliorer l'accessibilité** : Identifier et corriger les problèmes d'accessibilité sur les pages web.
-2. **Suivre les normes ** : Conformer aux directives pour l'accessibilité des contenus web (WCAG).
+2. **Suivre les normes** : Conformer aux directives pour l'accessibilité des contenus web (WCAG).
 3. **Promouvoir l'inclusion** : Assurer que tous les utilisateurs, indépendamment de leurs capacités, puissent accéder et utiliser les sites web de manière efficace.
 
 ## Améliorations apportées
